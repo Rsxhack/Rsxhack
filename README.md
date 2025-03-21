@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - Twitter: [@rsxhack](https://x.com/sinut_rs)
 
 ## 🌟 Projects
-- [Crypto Invest & Exchange Platform!](https://rsx.rf.gd/index,html): Crypto Invest & Exchange Platform! 1.
+- [Crypto Invest & Exchange Platform!](https://rsx.rf.gd/index.html): Crypto Invest & Exchange Platform! 1.
 - [Simple Link Tree webapp](https://interactive-resume-nu900le3k-rss-projects-cfab6834.vercel.app): Simple Link Tree webapp v-2.0 2.
 - [ProfitProTip](https://profitprotip.blogspot.com): ProfitProTip 3.
 
