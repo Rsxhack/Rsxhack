@@ -8,16 +8,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with contributions to my projects.
 - 💬 Ask me about web development, cybersecurity, and open-source contributions.
-- 📫 How to reach me: [Email](mailto:rsxhack@example.com) | [LinkedIn](https://www.linkedin.com/in/rsxhack)
+- 📫 How to reach me: [Email](mailto:freexchatnow@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sintu-singh)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hacking challenges and CTF competitions!
 
 ## 🔧 Technologies & Tools
 - Languages: Python, JavaScript, C++, Java
 - Frontend: React, Angular, HTML, CSS
-- Backend: Node.js, Django, Flask
-- Databases: MySQL, PostgreSQL, MongoDB
-- Tools: Git, Docker, Kubernetes, Jenkins
+- Backend: Node.js, Flask
+- Databases: MySQL, PostgreSQL,
+- Tools: Git, Docker
 - Cloud: AWS, Azure, Google Cloud
 
 ## 🏆 GitHub Stats
@@ -30,14 +30,14 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![Rsxhack's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rsxhack&theme=github)
 
 ## 📫 Contact Me
-- Email: [rsxhack@example.com](mailto:rsxhack@example.com)
-- LinkedIn: [linkedin.com/in/rsxhack](https://www.linkedin.com/in/rsxhack)
-- Twitter: [@rsxhack](https://twitter.com/rsxhack)
+- Email: [rsxhack@example.com](mailto:freexchatnow@gmail.com)
+- LinkedIn: [linkedin.com/in/rsxhack](https://www.linkedin.com/in/sintu-singh)
+- Twitter: [@rsxhack](https://x.com/sinut_rs)
 
 ## 🌟 Projects
-- [Project 1](https://github.com/rsxhack/project1): Description of project 1.
-- [Project 2](https://github.com/rsxhack/project2): Description of project 2.
-- [Project 3](https://github.com/rsxhack/project3): Description of project 3.
+- [Crypto Invest & Exchange Platform!](https://rsx.rf.gd/index,html): Crypto Invest & Exchange Platform! 1.
+- [Simple Link Tree webapp]([https://github.com/rsxhack/project2](https://interactive-resume-nu900le3k-rss-projects-cfab6834.vercel.app/)): Simple Link Tree webapp v-2.0 2.
+- [ProfitProTip](https://profitprotip.blogspot.com): ProfitProTip 3.
 
 Feel free to explore my repositories and contribute to any projects that interest you. Let's build something amazing together!
 
